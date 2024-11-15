@@ -20,8 +20,21 @@ Asegúrate de tener instalado lo siguiente:
 
 ## Instalación
 
-1. Clona el repositorio:
+1. **Descarga el código fuente**:  
+   Descarga el archivo ZIP del repositorio desde GitHub [aquí](https://github.com/Choco-Latito/Bot-Bienvenidas-Discord.js) y extráelo en tu máquina.
 
-   ```bash
-   git clone https://github.com/tu_usuario/tu_repositorio.git
-   ```
+2. **Accede al directorio del proyecto**:  
+   Abre una terminal (o símbolo del sistema en Windows) y navega al directorio donde extrajiste los archivos. Por ejemplo, si los extrajiste en la carpeta `Documentos`, el comando podría ser algo como:
+
+   - **Para macOS y Linux**:
+
+     ```bash
+     cd ~/Documentos/Bot-Bienvenidas-Discord.js
+     ```
+
+   - **Para Windows**:
+     ```bash
+     cd C:\Users\TuUsuario\Documents\Bot-Bienvenidas-Discord.js
+     ```
+
+   Asegúrate de modificar la ruta según donde hayas guardado los archivos.
