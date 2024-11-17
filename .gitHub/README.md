@@ -38,3 +38,7 @@ Asegúrate de tener instalado lo siguiente:
      ```
 
    Asegúrate de modificar la ruta según donde hayas guardado los archivos.
+
+## Licencia
+
+Este proyecto está bajo la Licencia MIT. Para más detalles, consulta el archivo [LICENSE](../LICENSE).
