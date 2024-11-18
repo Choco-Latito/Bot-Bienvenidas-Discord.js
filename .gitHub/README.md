@@ -17,6 +17,7 @@ Asegúrate de tener instalado lo siguiente:
 
 - Node.js (versión 16 o superior)
 - Discord.js (versión 14 o superior)
+- RAR (Para descomprimir el proyecto)
 
 ## Instalación
 
